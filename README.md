@@ -3,6 +3,7 @@ a simple bash script that prevents vs code form filling up you session with cach
 
 ## ⚠️ Important
 This script relies on macOS-specific folder paths `~/Library/Caches` 
+![Platform](https://img.shields.io/badge/platform-macOS-blue)
 So it will **not work on Linux or Windows** without modifications.
 
 
